@@ -1,0 +1,11 @@
+{
+  "name": "mockupfirebase",
+  "version": "1.0.0",
+  "description": "MockUpFirebase version of app with Cristian and Gabriel",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Hanson",
+  "license": "ISC"
+}
